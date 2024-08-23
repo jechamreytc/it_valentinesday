@@ -1,0 +1,120 @@
+Parsed Data: Array
+(
+    [0] => Array
+        (
+            [ID] => 2
+            [Full Name] => 000
+            [ID Number] => 02-1213-11236
+            [Gender] => Male
+        )
+
+)
+
+Parsed Data: Array
+(
+    [0] => Array
+        (
+            [ID] => 2
+            [Full Name] => 000
+            [ID Number] => 02-1213-11236
+            [Gender] => Male
+        )
+
+)
+
+Parsed Data: Array
+(
+    [0] => Array
+        (
+            [ID] => 2
+            [Full Name] => 000
+            [ID Number] => 02-1213-11236
+            [Gender] => Male
+        )
+
+)
+
+Parsed Data: Array
+(
+    [0] => Array
+        (
+            [ID] => 3
+            [Full Name] => 000
+            [ID Number] => 02-1213-11236
+            [Gender] => Male
+        )
+
+)
+
+Parsed Data: Array
+(
+    [0] => Array
+        (
+            [ID] => 3
+            [Full Name] => 000
+            [ID Number] => 02-1213-11236
+            [Gender] => Male
+        )
+
+)
+
+Parsed Data: Array
+(
+    [0] => Array
+        (
+            [ID] => 3
+            [Full Name] => 000
+            [ID Number] => 123987
+            [Gender] => Male
+        )
+
+)
+
+Parsed Data: Array
+(
+    [0] => Array
+        (
+            [ID] => 3
+            [Full Name] => 000
+            [ID Number] => 123987
+            [Gender] => Male
+        )
+
+)
+
+Parsed Data: Array
+(
+    [0] => Array
+        (
+            [ID] => 3
+            [Full Name] => 000
+            [ID Number] => 123987
+            [Gender] => Male
+        )
+
+)
+
+Parsed Data: Array
+(
+    [0] => Array
+        (
+            [ID] => 3
+            [Full Name] => 000
+            [ID Number] => 123987
+            [Gender] => Male
+        )
+
+)
+
+Parsed Data: Array
+(
+    [0] => Array
+        (
+            [ID] => 3
+            [Full Name] => 000
+            [ID Number] => 123987
+            [Gender] => Male
+        )
+
+)
+
