@@ -1,14 +1,1 @@
-ID: 1
-Full Name: 000
-ID Number: 123456
-Gender: Male
-
-ID: 2
-Full Name: 000
-ID Number: 789456
-Gender: Male
-
-ID: 3
-Full Name: 000
-ID Number: 123987
-Gender: Male
+1
